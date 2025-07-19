@@ -1,6 +1,11 @@
-## Em construção.... 😄
 
-<h3> Main Tech Skills :trophy: </h3>
+## Em construção.... 😄
+<div align="center">
+      
+---
+
+## Main Tech Skills :trophy: 
+
 
 <table class="tabela-personalizada">
       <tr>
@@ -71,10 +76,29 @@
     </td>
   </tr>
 </table>
-
 </details>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=matheuscalbqq&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy" title="Source" target="_blank" rel="noreferrer noopener">
+<img aligh="center" title="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=matheuscalbqq&theme=tokyonight&rank=-?&margin-w=15&row=1&column=3"/>
+</a>
+
+---
+
+## Contact 💬
+<a href="https://www.linkedin.com/in/matheusc-albqq/" title="Linkedin" target="_blank" rel="noreferrer noopener">
+ <img title="Linkedin" src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="https://discordapp.com/users/269223352185389056" title="Discord" target="_blank" rel="noreferrer noopener">
+ <img title="Discord" src="https://skillicons.dev/icons?i=discord"/>
+</a>
+<a href="https://www.instagram.com/matheusc.albqq/" title="Instagram" target="_blank" rel="noreferrer noopener">
+ <img title="Instagram" src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+
+![](https://komarev.com/ghpvc/?username=matheuscalbqq&style=plastic&abbreviated=true&color=202a47)
+
+</div>
 
 <!--
 **matheuscalbqq/matheuscalbqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
