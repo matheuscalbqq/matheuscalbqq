@@ -35,6 +35,7 @@
           <img title="TypeScript" src="https://skillicons.dev/icons?i=ts"/><br>
           <img title="npm" src="https://skillicons.dev/icons?i=npm"/>
           <img title="MySQL" src="https://skillicons.dev/icons?i=mysql"/>
+          <img title="FastAPI" src="https://skillicons.dev/icons?i=fastapi"/>
         </td>
         <td align="center">
           <img title="AWS Cloud" src="https://skillicons.dev/icons?i=aws"/>
